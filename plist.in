@@ -56,28 +56,58 @@
     <string>UIInterfaceOrientationLandscapeLeft</string>
     <string>UIInterfaceOrientationLandscapeRight</string>
   </array>
-  <key>UILaunchImages~ipad</key>
+  <key>UILaunchImages</key>
   <array>
-    <dict>
-      <key>UILaunchImageMinimumOSVersion</key>
-      <string>7.0</string>
-      <key>UILaunchImageName</key>
-      <string>Default-Landscape</string>
-      <key>UILaunchImageOrientation</key>
-      <string>Landscape</string>
-      <key>UILaunchImageSize</key>
-      <string>{768, 1024}</string>
-    </dict>
-    <dict>
-      <key>UILaunchImageMinimumOSVersion</key>
-      <string>7.0</string>
-      <key>UILaunchImageName</key>
-      <string>Default-Portrait</string>
-      <key>UILaunchImageOrientation</key>
-      <string>Portrait</string>
-      <key>UILaunchImageSize</key>
-      <string>{768, 1024}</string>
-    </dict>
+      <dict>
+          <key>UILaunchImageMinimumOSVersion</key>
+          <string>7.0</string>
+          <key>UILaunchImageName</key>
+          <string>launch_640x1136</string>
+          <key>UILaunchImageOrientation</key>
+          <string>Portrait</string>
+          <key>UILaunchImageSize</key>
+          <string>{320, 568}</string>
+      </dict>
+      <dict>
+          <key>UILaunchImageMinimumOSVersion</key>
+          <string>7.0</string>
+          <key>UILaunchImageName</key>
+          <string>launch_640x960</string>
+          <key>UILaunchImageOrientation</key>
+          <string>Portrait</string>
+          <key>UILaunchImageSize</key>
+          <string>{320, 480}</string>
+      </dict>
+      <dict>
+          <key>UILaunchImageMinimumOSVersion</key>
+          <string>8.0</string>
+          <key>UILaunchImageName</key>
+          <string>launch_750x1334</string>
+          <key>UILaunchImageOrientation</key>
+          <string>Portrait</string>
+          <key>UILaunchImageSize</key>
+          <string>{375, 667}</string>
+      </dict>
+      <dict>
+          <key>UILaunchImageMinimumOSVersion</key>
+          <string>8.0</string>
+          <key>UILaunchImageName</key>
+          <string>launch_1242x2208</string>
+          <key>UILaunchImageOrientation</key>
+          <string>Portrait</string>
+          <key>UILaunchImageSize</key>
+          <string>{414, 736}</string>
+      </dict>
+      <dict>
+          <key>UILaunchImageMinimumOSVersion</key>
+          <string>8.0</string>
+          <key>UILaunchImageName</key>
+          <string>launch_1242x2208</string>
+          <key>UILaunchImageOrientation</key>
+          <string>Landscape</string>
+          <key>UILaunchImageSize</key>
+          <string>{414, 736}</string>
+      </dict>
   </array>
   <key>UIMainStoryboardFile</key>
   <string>MainStoryboard_iPhone</string>

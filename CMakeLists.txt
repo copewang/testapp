@@ -26,22 +26,14 @@ set(
 
 set(
     IMAGES
-    images/iphone/Default@2x.png # Retina, 640x960
-    images/iphone/Default-568h@2x.png # Retina 4-inch, 640x1136
-    # See plist.in:
-    images/ipad/Default-Portrait~ipad.png # Portrait Non-Retina, 768x1024
-    images/ipad/Default-Portrait@2x~ipad.png # Portrait Retina, 1536x2048
-    images/ipad/Default-Landscape~ipad.png # Landscape Non-Retina, 1024x768
-    images/ipad/Default-Landscape@2x~ipad.png # Landscape Retina, 2048x1536
+    images/launch_640x960@2x.png
+    images/launch_640x1136@2x.png
+    images/launch_750x1334@2x.png
+    images/launch_1242x2208@2x.png
 )
 
 set(
     ICONS
-    icons/app/Icon~iphone.png # iPhone Retina, 120x120
-    icons/app/Icon~ipad.png # iPad Non-Retina, 76x76
-    icons/app/Icon@2x~ipad.png # iPad Retina, 152x152
-    icons/spotlight/Icon.png # iPhone/iPad Retina, 80x80
-    icons/spotlight/Icon~ipad.png # iPad Non-Retina, 40x40
     icons/settings/Icon@2x.png # iPhone Retina, 58x58
     icons/settings/Icon-Small.png # iPad Non-Retina 29x29
 )
